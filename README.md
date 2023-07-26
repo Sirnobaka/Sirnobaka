@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analyst and engineer in HEP, data scientist</h3>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on high energy physics projects
 - 🌱 I’m currently learning python, data science and developing my own projects
