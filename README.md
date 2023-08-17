@@ -34,4 +34,4 @@
 <h2 align="left">My DS projects</h2>
  
 **1.** [Online shopeers revenue](https://github.com/Sirnobaka/Online_Shoppers): prediction of revenue brought by online shoppers
-<b><i>| Binary classification | CatBoost |</i></b>
+<b><i>| Binary classification | CatBoost | KNN | Naive Bayes | Docker |</i></b>
