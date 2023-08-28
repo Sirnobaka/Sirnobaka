@@ -14,6 +14,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
 
 <h2 align="left"> Data Science and ML </h2>
 
@@ -34,4 +35,4 @@
 <h2 align="left">My DS projects</h2>
  
 **1.** [Online shopeers revenue](https://github.com/Sirnobaka/Online_Shoppers): prediction of revenue brought by online shoppers
-<b><i>| Binary classification | CatBoost | KNN | Naive Bayes | Docker |</i></b>
+<b><i>| Binary classification | EDA | CatBoost | KNN | Naive Bayes | Docker |</i></b>
