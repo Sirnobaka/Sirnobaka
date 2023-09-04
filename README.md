@@ -36,3 +36,6 @@
  
 **1.** [Online shopeers revenue](https://github.com/Sirnobaka/Online_Shoppers): prediction of revenue brought by online shoppers
 <b><i>| Binary classification | EDA | CatBoost | KNN | Naive Bayes | Docker |</i></b>
+
+**2.** [Chocolate competition](https://github.com/Sirnobaka/Chocolate_Competition): prediction of chocolate bar rating
+<b><i>| Regression | CatBoost | Pipelines | Stacking |</i></b>
