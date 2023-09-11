@@ -39,3 +39,13 @@
 
 **2.** [Chocolate competition](https://github.com/Sirnobaka/Chocolate_Competition): prediction of chocolate bar rating
 <b><i>| Regression | CatBoost | Pipelines | Stacking |</i></b>
+
+### :chart_with_upwards_trend: Some GitHub statistic:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirnobaka&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirnobaka&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirnobaka&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirnobaka&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirnobaka&theme=github_dark)
+
+### 📬 How to reach me:
+<a href="mailto:oskinat07@yandex.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/itsfridaydudes"><img src="https://img.shields.io/badge/Telegram-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
