@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Andrey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analyst and engineer in HEP, data scientist</h3>
+<h3 align="center">Data scientist and engineer</h3>
 
 
-- 🔭 I’m currently working on high energy physics projects
-- 🌱 I’m currently learning python, data science and developing my own projects
+- 🔭 I’m currently working at Bauman Moscow State Technical University
+- 🌱 I’m currently learning python, data science, ML, DL and developing my own projects
 - 📫 How to reach me: oskinat07@yandex.ru
 
 
