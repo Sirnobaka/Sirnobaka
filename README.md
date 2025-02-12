@@ -3,7 +3,7 @@
 <h3 align="center">Data scientist and engineer</h3>
 
 
-- 🔭 I’m currently working at Bauman Moscow State Technical University
+- 🔭 I’m currently working at Bauman Moscow State Technical University as data scientist
 - 🌱 I’m currently learning python, data science, ML, DL and developing my own projects
 - 📫 How to reach me: oskinat07@yandex.ru
 
